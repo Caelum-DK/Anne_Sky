@@ -12,6 +12,10 @@
   var ORBIT = {
     
     defaults: {  
+<<<<<<< HEAD
+      animation: 'horizontal-push', 		// fade, horizontal-slide, vertical-slide, horizontal-push, vertical-push
+      animationSpeed: 600, 				// how fast animtions are
+      timer: true, 						// true or false to have the timer
       animation: 'fade', 		// fade, horizontal-slide, vertical-slide, horizontal-push, vertical-push
       animationSpeed: 800, 				// how fast animtions are
       timer: true, 						// true or false to have the timer
